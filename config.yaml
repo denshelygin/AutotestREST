@@ -1,0 +1,8 @@
+url: https://test-stand.gb.ru/gateway/login
+address: https://test-stand.gb.ru/api/posts
+
+login: ivan111123
+password: a7f1b97d65
+address_post: https://test-stand.gb.ru/gateway/posts
+description: about testing API
+content: moremoremoremoretext
